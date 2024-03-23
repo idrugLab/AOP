@@ -1,4 +1,4 @@
-# AOP-Predict
+# AOP
 Provides a script for predicting the antioxidant activity of molecules.
 
 # Installation
