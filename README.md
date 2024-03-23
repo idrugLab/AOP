@@ -4,7 +4,7 @@ Provides a script for predicting the antioxidant activity of molecules.
 # Installation
 1. Clone the repository and navigate to the root directory
     ```bash
-    git clone https://github.com/idruglab/AOP-Predict.git
+    git clone https://github.com/idruglab/AOP.git
     cd AOP-Predict
     ```
 
